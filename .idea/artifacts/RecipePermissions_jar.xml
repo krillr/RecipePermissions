@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RecipePermissions:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RecipePermissions_jar</output-path>
+    <root id="archive" name="RecipePermissions.jar">
+      <element id="module-output" name="RecipePermissions" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

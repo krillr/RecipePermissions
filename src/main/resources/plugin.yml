@@ -1,0 +1,3 @@
+name: RecipePermissions
+version: 1.0-SNAPSHOT
+main: io.quintus.recipepermissions.RecipePermissions
